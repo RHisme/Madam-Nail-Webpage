@@ -4,7 +4,7 @@ import serviceCategories from "../serviceCategories.json";
 import BellaBookingNav from "../../BookingNav";
 
 const LaptopSalonService = () => {
-  const [activeCategory, setActiveCategory] = useState(0); // Default to the first category
+  const [activeCategory, setActiveCategory] = useState(2); // Default to the third category
   const [isExpanded, setIsExpanded] = useState(false); // Toggle for description expansion
 
   // Toggle service description content
