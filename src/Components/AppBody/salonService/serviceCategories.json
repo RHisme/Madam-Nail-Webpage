@@ -1,0 +1,178 @@
+[
+    {
+        "title": "Extension Nails",
+        "services": [
+            {
+                "name": "Refill Shellac Acrylic-Gelpowder",
+                "price": "$50",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "Good products + long lasting ~3 weeks"
+            },
+            {
+                "name": "Fullset Shellac Acrylic-Gelpowder",
+                "price": "$58",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "Good products + long lasting ~3-4 weeks"
+            },
+            {
+                "name": "Add Manual Design (French, Flowers, Diamond, Designs From Internet,...)",
+                "price": "from $10",
+                "discountPrice": "$0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "14 mins",
+                "description": " Feel free to show us your creative design and we will make it become true"
+            },
+            {
+                "name": "Refill Ombré/Solar/Gel-X",
+                "price": "$60",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "Good products + long lasting ~3-4 weeks"
+            },
+            {
+                "name": "Fullset Ombré/Solar",
+                "price": "$68",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "Good products + long lasting ~3-4 weeks"
+            },
+            {
+                "name": "Dipping Long Nails With Extended Tips",
+                "price": "$68",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "Good products + long lasting ~3-4 weeks"
+            },
+            {
+                "name": "Takeoff Extension Nails",
+                "price": "$68",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "only $10 - $15 when getting new fullset"
+            }
+            
+        ]
+    },
+    {
+        "title": "Natural Nails",
+        "services": [
+            {
+                "name": "Manicure Shellac-Gel",
+                "price": "$38",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "45 mins",
+                "description": "Long lasting ~3 weeks including file shaping, trimming nails, cuticle care, hand massage, polish application, including shellac removal with Acetone"
+            },
+            {
+                "name": "Manicure Shellac-Gel Builder",
+                "price": "$45",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "45 mins",
+                "description": "Gel Builder stronger and long lasting ~3 weeks including file shaping, trimming nails, cuticle care, hand massage, polish application, including shellac removal with Acetone"
+            },
+            {
+                "name": "Dipping Natual Nails ( No Takeoff )",
+                "price": "$45",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "44 mins",
+                "description": "Good products - Healthy, strong and long lasting ~4 weeks look like natural shape - NO liquid - NO acrylic"
+            },
+            {
+                "name": "Dipping Natual Nails ( With taking off the previous dipped set)",
+                "price": "$50",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 14 mins",
+                "description": "Good products - Healthy, strong and long lasting ~4 weeks look like natural shape - NO liquid - NO acrylic"
+            },
+            {
+                "name": "Manicure Regular",
+                "price": "$33",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "39 mins",
+                "description": "Filing and shaping, trimming nails, cuticle caring, hand massage and finally is polish application"
+            },
+            {
+                "name": "Takeoff Dipping/Shellac Real Nails With Acetone",
+                "price": "$25",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "29 mins",
+                "description": "Safe and healthy are always guaranteed"
+            }
+        ]
+    },
+    {
+        "title": "Pedicure",
+        "services": [
+            {
+                "name": "Combo Shellac Pedi & Shellac Mani Real Nails",
+                "price": "$78",
+                "discountPrice": "$0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 30 mins",
+                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+            },
+            {
+                "name": "Combo Regular Pedi & Shellac Mani Real Nails",
+                "price": "$68",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 30 mins",
+                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+            },
+            {
+                "name": "Combo Regular Pedi & Regular Mani Real Nails",
+                "price": "$58",
+                "discountPrice": "$0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 30 mins",
+                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+            },
+            {
+                "name": "Pedicure With Shellac Colour Applied ( Last Long 4 Weeks )",
+                "price": "$48",
+                "discountPrice": "$0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "44 mins",
+                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+            },
+            {
+                "name": "Pedicure With Regular Colour",
+                "price": "$38",
+                "discountPrice": "$0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "1 hr 30 mins",
+                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+            },
+            {
+                "name": "Pedicure Regular (No Polish)",
+                "price": "$35",
+                "discountPrice": "$0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "44 mins",
+                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+            }
+        ]
+    }
+   
+]
