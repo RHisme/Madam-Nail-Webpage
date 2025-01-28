@@ -20,7 +20,7 @@ function FloatingButton() {
       <FloatButton  
         icon={<PhoneOutlined />} 
         badge={{ dot: true }}
-        onClick={() => { window.location.href = "tel:+204589624545896245"; }}
+        onClick={() => { window.location.href = "tel:+12045896245"; }}
       />
 
       <FloatButton  
