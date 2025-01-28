@@ -20,7 +20,7 @@ const SalonGallery = forwardRef((props, ref) => {
             </Row>
 
             <button className='btn' 
-            onClick={()=>{window.open("https://www.google.com/maps/uv?pb=!1s0x4cce1196685058c7%3A0x11f437bbc82a1330!3m1!7e115!4s%2Fmaps%2Fplace%2Fholiday%2Bnails%2F%4045.465544%2C-75.542553%2C3a%2C75y%2C148.02h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sJbSQ9xTMbZmrQ-p67t9hzg*212e0*214m2*213m1*211s0x4cce1196685058c7%3A0x11f437bbc82a1330%3Fsa%3DX%26ved%3D2ahUKEwibxIzTzOeKAxX5CnkGHSL4Di0Qpx96BAhHEAA!5sholiday%20nails%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOw3-0-79eWTq0wttLKbT3F-2NGRa0_fwLfD7H5&cr=le_a7&hl=en&ved=1t%3A206134&ictx=111")}}
+            onClick={()=>{window.open("https://www.google.com/maps/place/Madam's+Nail+Spa/@49.8326043,-97.0458788,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOxVpqn8QOHds846z70-dBEQviJUQFyegB3uFK4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOxVpqn8QOHds846z70-dBEQviJUQFyegB3uFK4%3Dw560-h298-k-no!7i2460!8i1308!4m9!3m8!1s0x52ea7792c8e5f265:0x5fbc7702e8e4fcc1!8m2!3d49.8326043!4d-97.0458788!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11gj0j2qrf?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D")}}
             style={{marginBottom:'50px'}}> See more </button>
 
 

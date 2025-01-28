@@ -14,13 +14,13 @@ import imageData from './images.json';
 
 
 const hoursOfOperation = [
-    { day: 'Sunday', hours: '11am - 5p:30' },
-    { day: 'Monday', hours: '11am - 6:30pm' },
-    { day: 'Tuesday', hours: '10am - 6:30pm' },
-    { day: 'Wednesday', hours: '10am - 6:30pm' },
-    { day: 'Thursday', hours: '10am - 6:30pm' },
-    { day: 'Friday', hours: '10am - 6:30pm' },
-    { day: 'Saturday', hours: '10am - 6:30pm' },
+    { day: 'Sunday', hours: '11am - 4:30pm' },
+    { day: 'Monday', hours: '10am - 7pm' },
+    { day: 'Tuesday', hours: '10am - 7pm' },
+    { day: 'Wednesday', hours: '10am - 7pm' },
+    { day: 'Thursday', hours: '9am - 8pm' },
+    { day: 'Friday', hours: '9am - 8pm' },
+    { day: 'Saturday', hours: '9am - 5pm' },
 ];
   
 const getCurrentDayInfo = () => {
@@ -31,8 +31,8 @@ const getCurrentDayInfo = () => {
 
 
 const SalonIntroduction = ({ galleryRef }) => {
-    var rateValue = 4.6; 
-    var totalRate = 305;
+    var rateValue = 4.1; 
+    var totalRate = 99;
     const currentDayInfo = getCurrentDayInfo(); // Get current day's hours
     const currentDayIndex = new Date().getDay(); // Get the current day's index
 
@@ -40,7 +40,7 @@ const SalonIntroduction = ({ galleryRef }) => {
 
    
 
-    const salonDescription = "Holiday Nail & Spa is a luxurious and festive destination where you can relax, unwind, and treat yourself to a perfect holiday experience. Whether you're preparing for a special holiday event or simply indulging in a bit of self-care, their skilled technicians create stunning holiday-inspired designs, featuring festive colors, glitter, and unique seasonal accents. At Holiday Nail & Spa, every visit is a celebration of beauty, relaxation, and the holiday spirit.";
+    const salonDescription = "Madam's Nail Spa is a modern and stylish salon offering a variety of nail care and beauty services. Known for its relaxing ambiance, skilled technicians, and high-quality products, the spa provides manicures, pedicures, nail art, and other treatments designed to pamper and rejuvenate clients. Whether you're looking for a quick touch-up or a luxurious experience, Madam's Nail Spa ensures exceptional service tailored to your needs.";
     //Toggle service description content
     const [isExpanded, setIsExpanded] = useState(false);
 
@@ -90,29 +90,29 @@ const SalonIntroduction = ({ galleryRef }) => {
              <div/>
             </div>
              <div className="salonInfo"> 
-                <h1 className='title' style={{color: "black"}}> Holiday Nails & Spa</h1>
-                <div className="rate" onClick={() => {window.open("https://www.google.com/search?q=holiday+nails&rlz=1C1ONGR_enCA1098CA1098&oq=holi&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYQDIHCAMQABiPAjIHCAQQABiPAjIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDEwOTlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#lrd=0x4cce1196685058c7:0x11f437bbc82a1330,1,,,,")}}>
+                <h1 className='title' style={{color: "black"}}> Madam's Nail Spa</h1>
+                <div className="rate" onClick={() => {window.open("https://www.google.com/maps/place/Madam's+Nail+Spa/@49.8330425,-97.0491001,17z/data=!4m8!3m7!1s0x52ea7792c8e5f265:0x5fbc7702e8e4fcc1!8m2!3d49.8326043!4d-97.0458788!9m1!1b1!16s%2Fg%2F11gj0j2qrf?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D")}}>
                     <div>
                     <span style={{fontWeight:600}}> {rateValue}</span>
                     <Rate disabled allowHalf defaultValue={rateValue}/>
                     <span style={{color:'purple'}}> ({totalRate}) </span>
                     </div>
                     <div className="icon" >
-                        <SlLike onClick={()=> {window.open("https://www.instagram.com/holidaynailsart/")}} />
-                        <IoMdShare onClick={()=> {window.open("https://www.instagram.com/holidaynailsart/")}}/>
+                        <SlLike onClick={()=> {window.open("https://www.facebook.com/profile.php?id=100077995660238")}} />
+                        <IoMdShare onClick={()=> {window.open("https://www.facebook.com/profile.php?id=100077995660238")}}/>
                     </div>
                 </div>
-                <div className="contact" style={{cursor:'pointer'}} onClick={() => {window.location.href = "tel:+16134244289"}} >
+                <div className="contact" style={{cursor:'pointer'}} onClick={() => {window.location.href = "tel:+12045896245"}} >
                     <FiPhoneCall/>
-                    <span > (613) 424-4289 </span>
+                    <span > (204) 589-6245 </span>
                     
                 </div>
-                <div className="location" style={{cursor:'pointer'}} onClick={()=> {window.open("https://www.google.com/maps/place/Holiday+Nails+%26+Spa/@45.4654283,-75.5805588,14z/data=!4m15!1m7!3m6!1s0x4cce1196685058c7:0x11f437bbc82a1330!2sHoliday+Nails+%26+Spa!8m2!3d45.4654283!4d-75.54245!16s%2Fg%2F1tgz06hk!3m6!1s0x4cce1196685058c7:0x11f437bbc82a1330!8m2!3d45.4654283!4d-75.54245!15sChBIb2xpZGF5IGRheSBuYWlsWhIiEGhvbGlkYXkgZGF5IG5haWySAQpuYWlsX3NhbG9umgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU50ZUdOMU1uaFJSUkFC4AEA-gEECGkQGA!16s%2Fg%2F1tgz06hk?entry=ttu&g_ep=EgoyMDI1MDEwMi4wIKXMDSoASAFQAw%3D%3D")}}>
+                <div className="location" style={{cursor:'pointer'}} onClick={()=> {window.open("https://www.google.com/maps/place/Madam's+Nail+Spa/@49.8330425,-97.0491001,17.25z/data=!4m6!3m5!1s0x52ea7792c8e5f265:0x5fbc7702e8e4fcc1!8m2!3d49.8326043!4d-97.0458788!16s%2Fg%2F11gj0j2qrf?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D")}}>
                     <FaLocationDot/>
-                    <span> 5949 Jeanne D'Arc BlvdS, Orleans, Ottawa, ON K1C2N1</span>
+                    <span> 50 Sage Creek Blvd #805, Winnipeg, MB R3X 0J6</span>
                 </div>
 
-                <button className='btn' onClick={() => {window.open("https://bellebooking.com/center/f53e86ffa62566d36515daa4f07ba6d2?hl=en-CA&gei=Kjp-Z-7pE_mUwbkP2snakQs&rwg_token=AJKvS9WZjoNxOdGVdZ9DgbRU8mk774jHRhsuuR1HMmeUITescDxeQkG9UQoYpv74sKKPJmg-o0K6-4QMX7CgHI6i3ZFnAxIJkw%3D%3D")}}> 
+                <button className='btn' onClick={() => {window.open("https://www.vagaro.com/madamsnailspa/services")}}> 
                     <IoPencilSharp />   
                     Book Now 
                 </button>
@@ -170,7 +170,7 @@ const SalonIntroduction = ({ galleryRef }) => {
                     <Flex gap= '10px 4px' className='serviceCategories'>
                         <Tag color='magenta' className='tag'> Nails </Tag>
                         <Tag color='orange'className='tag'> Spa </Tag>
-                        <Tag color='cyan' className='tag'> Lashes </Tag>
+                        <Tag color='cyan' className='tag'> Tinding </Tag>
                         <Tag color= 'green' className='tag'> Waxing </Tag>
 
                     </Flex>

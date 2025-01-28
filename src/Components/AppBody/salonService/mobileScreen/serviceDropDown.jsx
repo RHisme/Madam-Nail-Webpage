@@ -29,7 +29,7 @@ const ServicesDropdown = () => {
                                         justifyContent: 'space-between'
                                     }}>
                                         <h3 className='serviceTitle'>
-                                            {service.name} <span style={{color: "Gray"}}> - </span> {service.duration}
+                                            {service.name} <span style={{color: "Gray"}}>  </span> {service.duration}
                                         </h3>
                                         
                                     </div>
@@ -83,7 +83,7 @@ const ServicesDropdown = () => {
 
                                         <button 
                                         className='btn3'
-                                        onClick={() => {window.open("https://bellebooking.com/center/f53e86ffa62566d36515daa4f07ba6d2?hl=en-CA&gei=UD2DZ67TOfD-ptQPzY2kyAo&rwg_token=AJKvS9VUqDYwA-mOhuwnRN5YTCV_svDLS0MckRALQ0oeXKyBp8lEfNzwksfYQslEIClGKR9Wujv1TSaXvbSh90hVgExHgO2zWA%3D%3D")}}
+                                        onClick={() => {window.open("https://www.vagaro.com/madamsnailspa/services")}}
                                         > Book Now </button>
                                     </div>
                                     </div>

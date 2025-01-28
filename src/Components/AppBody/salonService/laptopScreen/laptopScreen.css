@@ -90,6 +90,7 @@
   justify-content: start;
   color: black;
   font-weight: 700;
+  visibility: hidden;
 }
 .laptopSalonServices .servicesContainer .serviceList .servicesGrid .serviceItem .price .discounted {
   display: flex;

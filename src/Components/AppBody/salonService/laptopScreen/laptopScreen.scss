@@ -101,6 +101,7 @@
                         justify-content: start;
                         color: black;
                         font-weight: 700;
+                        visibility: hidden; //trigger the price
                         
                         .discounted{
                             display: flex;

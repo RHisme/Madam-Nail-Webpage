@@ -6,7 +6,7 @@ import './FloatButton.css';
 function FloatingButton() {
   const openMessenger = () => {
     // Open the Messenger link (replace with your own page username)
-    window.open('https://m.me/110527044750661', '_blank');
+    window.open('https://m.me/110130334916717', '_blank');
   };
 
   return (
@@ -20,7 +20,7 @@ function FloatingButton() {
       <FloatButton  
         icon={<PhoneOutlined />} 
         badge={{ dot: true }}
-        onClick={() => { window.location.href = "tel:+16134244289"; }}
+        onClick={() => { window.location.href = "tel:+204589624545896245"; }}
       />
 
       <FloatButton  

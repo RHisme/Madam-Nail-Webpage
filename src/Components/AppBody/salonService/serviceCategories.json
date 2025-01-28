@@ -1,177 +1,627 @@
 [
     {
-        "title": "Extension Nails",
+        "title": "NailCare",
         "services": [
             {
-                "name": "Refill Shellac Acrylic-Gelpowder",
-                "price": "$50",
+                "name": "Spa Mani & Pedi",
+                "price": "0",
                 "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "Good products + long lasting ~3 weeks"
+                "duration": "",
+                "description": "Pedicure and manicure"
             },
             {
-                "name": "Fullset Shellac Acrylic-Gelpowder",
-                "price": "$58",
+                "name": "Spa Pedi & Shellac Mani",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "Good products + long lasting ~3-4 weeks"
+                "duration": "",
+                "description": "Spa Pedicure and Shellac Manicure"
             },
             {
-                "name": "Add Manual Design (French, Flowers, Diamond, Designs From Internet,...)",
-                "price": "from $10",
-                "discountPrice": "$0",
+                "name": "Shellac Manicure/Pedicure",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "14 mins",
-                "description": " Feel free to show us your creative design and we will make it become true"
+                "duration": "",
+                "description": "Shellac Manicure and Pedicure combination"
             },
             {
-                "name": "Refill Ombré/Solar/Gel-X",
-                "price": "$60",
+                "name": "Spa Manicure",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "Good products + long lasting ~3-4 weeks"
+                "duration": "",
+                "description": "Spa Manicure"
             },
             {
-                "name": "Fullset Ombré/Solar",
-                "price": "$68",
+                "name": "SHELLAC MANI & SHELLAC PEDI WITH OLD COLOR TAKE OFF",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "Good products + long lasting ~3-4 weeks"
+                "duration": "",
+                "description": "TAKE OFF OLD COLOR FOR HAND AND FEET"
             },
             {
-                "name": "Dipping Long Nails With Extended Tips",
-                "price": "$68",
+                "name": "Shellac Manicure",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "Good products + long lasting ~3-4 weeks"
+                "duration": "",
+                "description": "Considerably better than normal polish. Ideal service for natural nails"
             },
             {
-                "name": "Takeoff Extension Nails",
-                "price": "$68",
+                "name": "Shellac Manicure with old shellac color take off",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "only $10 - $15 when getting new fullset"
+                "duration": "",
+                "description": "Take off and have your set redone"
+            },
+            {
+                "name": "Deluxe Spa Pedicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Volcano Spa package with extra 15 mins massage and shellac color including"
+            },
+            {
+                "name": "Spa Pedicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Enjoy a relaxing pedicure with a foot massage"
+            },
+            {
+                "name": "Shellac Pedicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Layers of shellac will be applied after the pedicure"
+            },
+            {
+                "name": "Shellac Pedicure with old shellac color take off",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Included the take off of the old shellac color before having your pedicure done"
+            },
+            {
+                "name": "Shellac Polish Changed",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Shellac Polish changed on extension nails",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Shellac Application",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Shellac Removal",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Nail Care",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Toe Care",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Polish Changed - Hands",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Polish Change - Feet",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Kids Manicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Applied for kids under 12 years old"
+            },
+            {
+                "name": "Kids Shellac Manicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Applied for kids under 12 years old"
+            },
+            {
+                "name": "Kids Pedicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Applied for kids under 12 years old"
+            },
+            {
+                "name": "Kids Shellac Pedicure",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Applied for kids under 12 years old"
+            },
+            {
+                "name": "Kids-polish changed",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "Kids-polish changed"
+            },
+            {
+                "name": "Dipping new set",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Fill dipping",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Full Set Acrylic - Hands",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Acrylic Fill - Hands",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Gel Nails Full Set - Hands",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "GEL FILL",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "NAILS OVERLAY",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": "PUT THE GEL OR ACRYLIC OVERLAY ON REAL NAIL NO EXTENSION"
+            },
+            {
+                "name": "Ombre Nails",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Ombre Fill",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Full Set Acrylic - Feet",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Nail Repair",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Acrylic Removal",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Gel Nail Removal",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "FRENCH POLISH ON EXTENSION NAIL",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "FRENCH ON REAL NAILS",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Holographic Polish",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "NAIL ART",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Nail Art - all fingers/toes",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Structured Gel Manicure (Overlay)",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
             }
             
         ]
     },
     {
-        "title": "Natural Nails",
+        "title": "Waxing",
         "services": [
             {
-                "name": "Manicure Shellac-Gel",
-                "price": "$38",
+                "name": "Waxing - Brow Shaping",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "45 mins",
-                "description": "Long lasting ~3 weeks including file shaping, trimming nails, cuticle care, hand massage, polish application, including shellac removal with Acetone"
+                "duration": "",
+                "description": "Waxing Different parts of the face."
             },
             {
-                "name": "Manicure Shellac-Gel Builder",
-                "price": "$45",
+                "name": "Waxing - Brow/Chin/Lips",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "45 mins",
-                "description": "Gel Builder stronger and long lasting ~3 weeks including file shaping, trimming nails, cuticle care, hand massage, polish application, including shellac removal with Acetone"
+                "duration": "",
+                "description": ""
             },
             {
-                "name": "Dipping Natual Nails ( No Takeoff )",
-                "price": "$45",
+                "name": "Waxing - Full Face",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "44 mins",
-                "description": "Good products - Healthy, strong and long lasting ~4 weeks look like natural shape - NO liquid - NO acrylic"
+                "duration": "",
+                "description": "Waxing Different parts of the face."
             },
             {
-                "name": "Dipping Natual Nails ( With taking off the previous dipped set)",
-                "price": "$50",
+                "name": "Waxing - Lips",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 14 mins",
-                "description": "Good products - Healthy, strong and long lasting ~4 weeks look like natural shape - NO liquid - NO acrylic"
+                "duration": "",
+                "description": "For upper lip"
             },
             {
-                "name": "Manicure Regular",
-                "price": "$33",
+                "name": "Waxing - Chin",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "39 mins",
-                "description": "Filing and shaping, trimming nails, cuticle caring, hand massage and finally is polish application"
+                "duration": "",
+                "description": "Waxing Different parts of the face."
             },
             {
-                "name": "Takeoff Dipping/Shellac Real Nails With Acetone",
-                "price": "$25",
+                "name": "Waxing - Neck",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "29 mins",
-                "description": "Safe and healthy are always guaranteed"
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Underarms",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Full Arms",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Half Arms",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Full Legs",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Half Legs",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Stomach",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Finger or Toe",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Shoulder",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Back",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Bikini",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Waxing - Brazilian",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Full Body Wax (excluding face & ladies only)",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
             }
         ]
     },
     {
-        "title": "Pedicure",
+        "title": "Threading",
         "services": [
             {
-                "name": "Combo Shellac Pedi & Shellac Mani Real Nails",
-                "price": "$78",
-                "discountPrice": "$0",
+                "name": "Threading - Brow Shaping",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 30 mins",
-                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+                "duration": "",
+                "description": "A cotton thread is pulled along unwanted hair in a twisting motion, to trap hair in a mini lasso, and lifts hair right out of the follicle"
             },
             {
-                "name": "Combo Regular Pedi & Shellac Mani Real Nails",
-                "price": "$68",
+                "name": "Threading - Full Face",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 30 mins",
-                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+                "duration": "",
+                "description": ""
             },
             {
-                "name": "Combo Regular Pedi & Regular Mani Real Nails",
-                "price": "$58",
-                "discountPrice": "$0",
+                "name": "Threading - Lips",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "1 hr 30 mins",
-                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+                "duration": "",
+                "description": ""
             },
             {
-                "name": "Pedicure With Shellac Colour Applied ( Last Long 4 Weeks )",
-                "price": "$48",
-                "discountPrice": "$0",
+                "name": "Threading - Chin",
+                "price": "0",
+                "discountPrice": "0",
                 "isDiscounted": false,
                 "isFixedPrice": true,
-                "duration": "44 mins",
-                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
-            },
-            {
-                "name": "Pedicure With Regular Colour",
-                "price": "$38",
-                "discountPrice": "$0",
-                "isDiscounted": false,
-                "isFixedPrice": true,
-                "duration": "1 hr 30 mins",
-                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
-            },
-            {
-                "name": "Pedicure Regular (No Polish)",
-                "price": "$35",
-                "discountPrice": "$0",
-                "isDiscounted": false,
-                "isFixedPrice": true,
-                "duration": "44 mins",
-                "description": "Good Products + Full SPA pedi relaxing massage + included disposable nails KIT and Tub Liner"
+                "duration": "",
+                "description": ""
             }
+        ]
+    },
+    {
+        "title": "Tinting",
+        "services": [
+            {
+                "name": "Lash tinting",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            },
+            {
+                "name": "Brow Tinting",
+                "price": "0",
+                "discountPrice": "0",
+                "isDiscounted": false,
+                "isFixedPrice": true,
+                "duration": "",
+                "description": ""
+            }
+            
         ]
     }
    

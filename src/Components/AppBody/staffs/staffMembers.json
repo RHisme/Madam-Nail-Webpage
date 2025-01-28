@@ -1,26 +1,44 @@
 [
     {
-        "name": "Kevin Pham",
-        "position": "Acrylic Specialist",
-        "rating": 4.8,
-        "image": "https://static.toiimg.com/thumb/resizemode-4,msid-76729536,width-1200,height-900/76729536.jpg"
+        "name": "Lin Le",
+        "position": "",
+        "rating": 5,
+        "image": "https://d.newsweek.com/en/full/1592734/facebook-avatar.jpg?w=1600&h=1600&q=88&f=f188f5e40bbb7411e5435a4659bcba86"
     },
     {
-        "name": "Nathalie",
-        "position": "Design Specialist",
-        "rating": 4.8,
+        "name": "Marina Medvedev",
+        "position": "",
+        "rating": 5,
         "image": "https://i0.wp.com/www.mascarilla.org/wp-content/uploads/2020/06/C%C3%B3mo-Crear-mi-Avatar-de-Facebook-Te-Explicamos-Paso-a-Paso-2.jpg?fit=253%2C283&ssl=1"
     },
     {
-        "name": "Ann Nguyen",
-        "position": "Nail Technician",
-        "rating": 4.6,
+        "name": "Kenny Dao",
+        "position": "",
+        "rating": 5,
         "image": "https://i.pinimg.com/236x/6d/5e/38/6d5e38d19bf4c0c9554b1e6beab75952.jpg"
     },
     {
-        "name": "Roy Hoang",
-        "position": "Nail Technician",
+        "name": "Diem Nguyen",
+        "position": "",
+        "rating": 5,
+        "image": "https://www.slideserve.com/photo/803820.jpg"
+    },
+    {
+        "name": "Sonia Manan",
+        "position": "",
+        "rating": 4.5,
+        "image": "https://padlet-uploads.storage.googleapis.com/322666585/4bc38f9d0cd11ef947367d48c014c3f5/avatar.png"
+    },
+    {
+        "name": "Briana Bloom",
+        "position": "",
+        "rating": 5,
+        "image": "https://i.pinimg.com/originals/55/6c/7f/556c7f73075bb76cdcfecb66d721159a.png"
+    },
+    {
+        "name": "Lina Dao",
+        "position": "",
         "rating": 4.7,
-        "image": "https://lifehacker.com/imagery/articles/01HF2GKNRQZ4MN1YA639Q53NQV/hero-image.fill.size_1200x675.png"
+        "image": "https://pbs.twimg.com/profile_images/938668326309392384/n9DnREyF_400x400.jpg"
     }
 ]

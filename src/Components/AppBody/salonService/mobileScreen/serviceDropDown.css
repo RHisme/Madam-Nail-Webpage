@@ -50,6 +50,7 @@
   justify-content: start;
   color: black;
   font-weight: 700;
+  visibility: hidden;
 }
 .servicesDropdown .categories .categoryTitle .serviceItem .price .discounted {
   display: flex;
